@@ -9,6 +9,6 @@ int main(){
     Celcius=(Fahrenheit-32)/1.8;
 
     printf("%.2lf degree Fahrenheit equal to %.2lf degree Celcius",Fahrenheit,Celcius);
-
+    //add some commands
     return 0;
 }
