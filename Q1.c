@@ -15,7 +15,7 @@ int main()
         }
         printf("Enter Mark:");
         scanf("%d",&marks);
-
+        //add commands
         switch (marks / 10)
         {
         case 10:
