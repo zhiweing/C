@@ -45,7 +45,9 @@ int main()
             printf("Invalid input");
         }
         printf("Grade:%c\n\n",grade);
-
+    //add somethings to test push
+    //add other commands
+    
     }
 
     return 0;
